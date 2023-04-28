@@ -1,4 +1,4 @@
-name: example
+name: example_luban
 description: A new Flutter project.
 
 # The following defines the version and build number for your application.
@@ -30,13 +30,11 @@ dev_dependencies:
   flutter_luban:
     path: ../
 
-
 # For information on the generic Dart part of this file, see the
 # following page: https://www.dartlang.org/tools/pub/pubspec
 
 # The following section is specific to Flutter.
 flutter:
-
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
   # the material Icons class.
