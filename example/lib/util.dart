@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'dart:io';
 import 'dart:typed_data';
 
-class Utils{
+class Utils {
   static String getImageBase64(File image) {
     var bytes = image.readAsBytesSync();
     var base64 = base64Encode(bytes);
