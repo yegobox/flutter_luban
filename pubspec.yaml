@@ -3,7 +3,10 @@ description: An image compress package like Luban for Dart, based on image. This
 version: 0.1.12
 homepage: https://github.com/crazecoder/flutter_luban
 
-sdk: ">=3.0.0"
+
+environment:
+  sdk: ">=3.0.0"
+
 
 dependencies:
   flutter:
